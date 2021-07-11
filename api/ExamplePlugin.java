@@ -1,4 +1,4 @@
-package vk.com.korne3v.skyblock.api;
+package <PACKAGE>;
 
 import org.bukkit.*;
 import org.bukkit.event.*;
